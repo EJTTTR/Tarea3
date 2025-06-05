@@ -192,7 +192,7 @@
             </ion-card-header>
             <ion-card-content>
               <div class="video-container">
-                <youtube-lite video="wbuBs7b6RDQ" width="100%" height="auto"></youtube-lite>
+                <youtube-lite video="_ipwprOXg-Q" width="100%" height="auto"></youtube-lite>
               </div>
               
               
